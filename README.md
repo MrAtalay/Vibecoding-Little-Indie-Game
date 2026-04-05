@@ -1,1 +1,1 @@
-# Vibecoding-Little-Indie-Game
+# Vibecoding-Little-Browser-Game
